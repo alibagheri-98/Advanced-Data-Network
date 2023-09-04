@@ -1,7 +1,7 @@
 # Advanced-Data-Network
 In the spring of 2022, I enrolled in the course titled 'Advanced Data Networks' at Sharif University of Technology, under the guidance of Dr. Pakravan. Throughout the duration of this course, my responsibilities included designing a homework assignment based on the course syllabus and engaging in a research project.
 
-Specifically, I focused on the topic of "Application of Machine Learning in Routing for Software Defined Networks." This repository serves as a comprehensive compilation of my research project, exploring the aforementioned subject, alongside the homework assignment I crafted. Both elements align with the curriculum of the "Advanced Data Networks" course, which was expertly instructed by Dr. Pakravan at Sharif University of Technology during the spring semester of 2022.
+Specifically, I focused on the topic of "Application of Machine Learning in Routing for Software Defined Networks." This repository serves as a comprehensive compilation of my research project, exploring the aforementioned subject, alongside the homework assignment I crafted. Both elements align with the curriculum of the 'Advanced Data Networks' course, which was expertly instructed by Dr. Pakravan at Sharif University of Technology during the spring semester of 2022.
 
 It's important to note that this course was conducted in the Persian (Farsi) language.
 
